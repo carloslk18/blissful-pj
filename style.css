@@ -1,0 +1,33 @@
+.banner {
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.products img {
+    width: 300px; 
+    height: 300px; 
+    object-fit: contain; 
+    border-radius: 10px; 
+    margin: 0 auto; 
+}
+
+.carousel img {
+    max-height: 500px; /* Ajusta a altura máxima das imagens */
+    object-fit: cover; /* Mantém o foco e corta o que exceder */
+    border-radius: 10px; /* Adiciona bordas arredondadas */
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semitransparente */
+    border-radius: 5px; /* Arredondamento no fundo */
+    padding: 10px; /* Espaçamento interno */
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
