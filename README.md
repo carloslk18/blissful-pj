@@ -1,1 +1,1 @@
-Projeto de extensçao - BlissFul Confeitaria
+Projeto de extensão - BlissFul Confeitaria
