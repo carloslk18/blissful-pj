@@ -1,12 +1,37 @@
-.banner {
-    width: 100%;
-    color: white;
-    text-align: center;
-    padding: 0;
-    margin: 0 auto;
+body{
+    background-color: #fdf5e6;
+    font-family: 'Garamond';
+    font-size: 20px;
+    font-weight:500;
 }
 
-.products img {
+h4{
+    text-align: center;
+}
+
+nav{
+    background-color: #9c5e1f;
+
+}
+
+.banner{
+    text-align:center;
+    margin: 20px;
+
+}
+
+.banner img{
+    border-radius: 10px;
+}
+
+#about{
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.products img{
     width: 300px; 
     height: 300px; 
     object-fit: contain; 
@@ -14,20 +39,40 @@
     margin: 0 auto; 
 }
 
-.carousel img {
-    max-height: 500px; /* Ajusta a altura máxima das imagens */
-    object-fit: cover; /* Mantém o foco e corta o que exceder */
-    border-radius: 10px; /* Adiciona bordas arredondadas */
+.carousel img{
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 10px;
 }
 
-.carousel-caption {
-    background-color: rgba(0, 0, 0, 0.5); /* Fundo semitransparente */
-    border-radius: 5px; /* Arredondamento no fundo */
-    padding: 10px; /* Espaçamento interno */
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 10px;
 }
 
-footer {
-    background-color: #f8f9fa;
-    padding: 20px 0;
+.carousel{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#products, #biscoitos{
+    background-color: #fdf5e6;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+#contact{
+    background-color: #e2a76c;
+
+}
+
+#icons{
+    text-align: center;
+}
+
+footer{
+    background-color: #9c5e1f;
+    padding: 20px 0px;
     text-align: center;
 }
