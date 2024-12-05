@@ -7,6 +7,7 @@ body{
 
 h4{
     text-align: center;
+    font-weight: 900;
 }
 
 nav{
@@ -26,7 +27,8 @@ nav{
 
 #about{
     text-align: center;
-    background-color: white;
+    color: white;
+    background-color: #e2a76c;
     border-radius: 20px;
     padding: 10px;
 }
@@ -64,6 +66,7 @@ nav{
 
 #contact{
     background-color: #e2a76c;
+    color: #9b4d00;
 
 }
 
@@ -75,4 +78,8 @@ footer{
     background-color: #9c5e1f;
     padding: 20px 0px;
     text-align: center;
+}
+
+#End{
+    font-size: 16px;
 }
