@@ -33,7 +33,7 @@ O projeto é uma landing page simples, responsiva e elegante, com recursos como:
 
 ## 🖼 Prévia
 
-![Banner BlissFul](Assets/Logo/Capa%20BlissFul.png)
+![Banner BlissFul](Assets/Logo/logo-redondo.png)
 
 ---
 
