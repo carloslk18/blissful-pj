@@ -29,7 +29,7 @@ O projeto é uma landing page simples, responsiva e elegante, com recursos como:
 - CSS3
 - Bootstrap 5
 
--
+---
 
 ## 🖼 Prévia
 
