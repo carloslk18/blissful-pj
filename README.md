@@ -4,7 +4,7 @@ Seja bem-vindo(a) ao repositório do projeto **BlissFul**, um site desenvolvido 
 
 🔗 Acesse o repositório: [github.com/carloslk18/blissful-pj](https://github.com/carloslk18/blissful-pj)
 
--
+---
 
 ## ✨ Sobre o Projeto
 
