@@ -21,7 +21,7 @@ O projeto é uma landing page simples, responsiva e elegante, com recursos como:
 - Rodapé com links para redes sociais (Instagram e iFood)
 - Favicon personalizado
 
----
+-
 
 ## 🛠 Tecnologias
 
