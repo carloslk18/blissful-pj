@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "Blissful.Web",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-hXiv2SZD6rMcXfwzsIgRIFoOZrcXq9sRduh4JiKlGUY=",
+    "hash": "sha256-fJ0mWuCqv8sulaoo98VE5Qrf+CU15zf/nw4doIluETE=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.69poregybn.js"
@@ -1242,16 +1242,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "Blissful.Web.wasm",
-        "name": "Blissful.Web.gbue88dayq.wasm",
-        "integrity": "sha256-/Agp1BRiTvMtKxZ5SG4RKzA/vDMxKIDZ94guhcvSL8o=",
+        "name": "Blissful.Web.synffcd78b.wasm",
+        "integrity": "sha256-7ClJek07Im67Z6Ovk3Ovw7NAjP3/xwY88Wzkf/tAmWg=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "Blissful.Web.pdb",
-        "name": "Blissful.Web.xo5o96ng72.pdb",
-        "integrity": "sha256-0SOlVc+Rh3dqPoEqPdJmyY7ZhULYDXhtTk0k8xNi/FM=",
+        "name": "Blissful.Web.hndsqne7rr.pdb",
+        "integrity": "sha256-HerwOB4hGVtlucmPpnzoQmRzTEIiiPt8+6JmWij+xjs=",
         "cache": "force-cache"
       }
     ],
