@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blissful.Web", "Blissful.Web\Blissful.Web.csproj", "{6037F156-42D6-CBD6-C660-FEC0D1F8EF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6037F156-42D6-CBD6-C660-FEC0D1F8EF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6037F156-42D6-CBD6-C660-FEC0D1F8EF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6037F156-42D6-CBD6-C660-FEC0D1F8EF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6037F156-42D6-CBD6-C660-FEC0D1F8EF41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FEC9B9B-EDC9-4A9D-99B6-03EBC005DB74}
+	EndGlobalSection
+EndGlobal
