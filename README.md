@@ -4,7 +4,7 @@ Seja bem-vindo(a) ao repositório do projeto **BlissFul**, um site desenvolvido 
 
 🔗 Acesse o repositório: [github.com/carloslk18/blissful-pj](https://github.com/carloslk18/blissful-pj)
 
---
+---
 
 ## ✨ Sobre o Projeto
 
@@ -21,7 +21,7 @@ O projeto é uma landing page simples, responsiva e elegante, com recursos como:
 - Rodapé com links para redes sociais (Instagram e iFood)
 - Favicon personalizado
 
---
+---
 
 ## 🛠 Tecnologias
 
