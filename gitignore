@@ -1,9 +1,9 @@
-bin/
-obj/
+**/bin/
+**/obj/
 
-.vs
+.vs/
 
-.idea
+.idea/
 
 *.user
 *.suo
