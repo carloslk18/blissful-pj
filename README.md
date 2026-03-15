@@ -1,4 +1,4 @@
-# 🍰 BlissFul - Confeitaria
+# BlissFul - Confeitaria
 
 Seja bem-vindo(a) ao repositório do projeto **BlissFul**, um site desenvolvido com HTML, CSS e Bootstrap para apresentar com charme os produtos de uma confeitaria artesanal feita com muito amor e açúcar 🧁.
 
@@ -6,7 +6,7 @@ Seja bem-vindo(a) ao repositório do projeto **BlissFul**, um site desenvolvido 
 
 --
 
-## ✨ Sobre o Projeto
+## Sobre o Projeto
 
 A **BlissFul** é uma confeitaria focada em oferecer experiências inesquecíveis através de delícias como:
 - Tortas no pote com brownie 🍫
@@ -21,7 +21,7 @@ O projeto é uma landing page simples, responsiva e elegante, com recursos como:
 - Rodapé com links para redes sociais (Instagram e iFood)
 - Favicon personalizado
 
----00
+---
 
 ## 🛠 Tecnologias
 
@@ -31,13 +31,13 @@ O projeto é uma landing page simples, responsiva e elegante, com recursos como:
 
 ---
 
-## 🖼 Prévia
+## Prévia
 
 ![Banner BlissFul](Assets/Logo/logo-redondo.png)
 
 ---
 
-## 🚀 Como usar
+## Como usar
 
 1. Clone o repositório:
 
