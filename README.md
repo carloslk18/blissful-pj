@@ -9,7 +9,7 @@ Acesse o repositório: [github.com/carloslk18/blissful-pj](https://github.com/ca
 ## Sobre o Projeto
 
 A **BlissFul** é uma confeitaria focada em oferecer experiências inesquecíveis através de delícias como:
-- Tortas no pote com brownie 🍫
+- Tortas no pote com brownie
 - Cookies crocantes por fora e macios por dentro 🍪
 - Biscoitos casadinhos com goiabada ❤️
 - Palha italiana reinventada com um toque especial 🍮
