@@ -1,6 +1,6 @@
 # BlissFul - Confeitaria
 
-Seja bem-vindo(a) ao repositório do projeto **BlissFul**, um site desenvolvido com HTML, CSS e Bootstrap para apresentar com charme os produtos de uma confeitaria artesanal feita com muito amor e açúcar 🧁.
+Seja bem-vindo(a) ao repositório do projeto **BlissFul**, um site desenvolvido com HTML, CSS e Bootstrap para apresentar com charme os produtos de uma confeitaria artesanal feita com muito amor e açúcar.
 
 Acesse o repositório: [github.com/carloslk18/blissful-pj](https://github.com/carloslk18/blissful-pj)
 
