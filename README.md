@@ -23,7 +23,7 @@ O projeto é uma landing page simples, responsiva e elegante, com recursos como:
 
 ---
 
-## 🛠 Tecnologias
+## Tecnologias
 
 - HTML5
 - CSS3
